@@ -1,5 +1,4 @@
 package first;
-
 public class Main1 {
     public static void main(String[] args) {
         //Integer = int

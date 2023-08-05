@@ -15,7 +15,6 @@ public class Main3 {
 
         main(listOfCar);
         main(listOfMotors);
-
     }
     private static void main(List<? extends Car> list){
         for(Car car : list){
